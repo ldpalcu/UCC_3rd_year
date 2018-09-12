@@ -16,7 +16,7 @@
 
 ## Texturing
   **UV Image texturing** - I applied UV texturing on my model. I used two images for this. One image for the head, to model the face and one image for the body to represent the skin.\
-  **Bump mapping** - I created bump mapping on the round portion of the floor where the ballerina stays. I applied first an image then I used the normal option to create this effect.
+  **Bump mapping** - I created bump mapping on the round portion of the floor where the ballerina stays. I applied first an image then I used the normal option to create this effect.\
   **Procedural texturing** - I applied this type of texturing on the dress. I choose the Voronoi texturing.
 
 
@@ -37,8 +37,8 @@
 
 ## COMPOSITING
   I composite my CG with the movie in my scene. In composition I included: 
-    ** Color Correction - I made the skin to look more natural.
-    ** Alpha channel - I merged the video with my character.
+    ** Color Correction - I made the skin to look more natural.\
+    ** Alpha channel - I merged the video with my character.\
     ** different types of filters - Bokeh Blur, Glare, Dilate/Erode. I used Glare for the human and Bokeh Blur and Dilate/Erode for the movie because I wanted to emphasize the movements of my character.Also I made the movie to be black and white and the character color to put into light my character.(ballerina). 
 
 
