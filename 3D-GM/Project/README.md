@@ -36,7 +36,7 @@
 
 
 ## COMPOSITING
-  I composite my CG with the movie in my scene. In composition I included:\ 
+  I composite my CG with the movie in my scene. In composition I included:\
     * Color Correction - I made the skin to look more natural.\
     * Alpha channel - I merged the video with my character.\
     * Different types of filters - Bokeh Blur, Glare, Dilate/Erode. I used Glare for the human and Bokeh Blur and Dilate/Erode for the movie because I wanted to emphasize the movements of my character.Also I made the movie to be black and white and the character color to put into light my character.(ballerina). 
