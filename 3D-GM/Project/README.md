@@ -15,7 +15,7 @@
 
 
 ## Texturing
-  **UV Image texturing** - I applied UV texturing on my model. I used two images for this. One image for the head, to model the face and one image for the body to represent the skin.
+  **UV Image texturing** - I applied UV texturing on my model. I used two images for this. One image for the head, to model the face and one image for the body to represent the skin.\
   **Bump mapping** - I created bump mapping on the round portion of the floor where the ballerina stays. I applied first an image then I used the normal option to create this effect.
   **Procedural texturing** - I applied this type of texturing on the dress. I choose the Voronoi texturing.
 
